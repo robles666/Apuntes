@@ -1,0 +1,70 @@
+clase 3
+
+diseño de software
+
+*verificacion
+*validacion
+
+en la programacion orientada a objetos
+pensamos en clases, objetos, propiedades y metodos
+
+ABSTRACCION
+
+*implica enfocarse en las caracteristicas importantes de un objeto o una situacion
+*hace enfasis en el que hace mas que en como lo hace
+¨
+ENCAPSULACION
+*consiste en denegar acceso a los atributos y metiodos internos de kla clase desde el exteriior
+
+
+HERENCIA
+*la capacidad de que tiene una clase de heredar atributos y metodos a otra
+*nos permite reutilizar codigos y hacer programas optimos
+
+
+POLIFORMISMO
+*es una propiedad de la herencia por la que objetos de distintas subclases pueden responder a una misma accion
+
+ENTIDADES
+profesor - estudiantes
+
+ATRIBUTOS
+profesor
+idprofesor
+
+estudiantes
+idestudiantes
+
+POLIFORMISMO
+se pueden aplicar: objetos y metodos
+
+CLASE tienes atributos y operaciones
+	     propiedades y metodos
+
+OBJETO es una instancia de la clases y tiene caracteristicas
+
+HERENCIA 
+
+----------------------------------------------
+
+Generalizacion y Especializacion
+
+elementos Basicos - Clases y objetos
+------------------------------------
+
+la base de POO son los objetos
+los Objetos son un tipo de dato cuya definicion
+vienen dada en una estructura llamada Clase
+
+
+
+
+ARQUITECTURA DEL SOFTWARE
+
+	la estructura general de este y a las formas en las que 
+esta da integridad conceptual a un sistema.
+
+
+Propiedades Estructurales(req. funcionales)
+Propiedades Extra Funcionales (req.No funcionales)
+Familias de Sistemas Relacionados (se basa en la reutilizacion de bloques de contrcucion artiqtetonica)
