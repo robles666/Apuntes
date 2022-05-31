@@ -1,0 +1,56 @@
+clase 6 30-05
+
+<Diseño de software>;
+
+Ciclo de vida del desarrollo de sistemas[
+
+1- desarrollo de sistemas
+2- operacion y mantenimiento de sistemas]
+
+ETAPA 1 PLANIFICACION:
+A. Delimitacion del ambito del proyecto
+. Estudios de Viabilidad
+. Analisis de riesgos 
+
+B. Estimacion de costos
+
+C. Planificacion temporal y asignacion de Recursos
+
+ETAPA 2 ANALISIS:
+. Tecnicas de elicitacion de requerimientos
+. Herramientas de modelado de sistemas
+. Metodologias de analisis de requerimientos
+
+ETAPA 3 DISEÑO:
+
+ETAPA 4 IMPLEMENTACION:
+
+ETAPA 5 TESTING Y MANTENCION:
+. Pruebas:
+..Pruebas de Unidad
+..Pruebas de Integracion
+..Pruebas Alfa
+..Pruebas Beta
+..Pruebas de Aceptacion
+
+.Mantencion:
+..Mantencion Correctivo
+..Mantencion Adaptativo
+..Mantencion Perfectivo
+
+
+
+----------------------------------------------
+
+Objetivos asociados al ciclo de vida
+
+Objetivos del ciclo de vida de la fase de concepción
+Objetivos del ciclo de vida de la fase de elaboracion
+Objetivos del ciclo de vida de la fase de construccion
+
+Ciclos
+.concretos
+.verificable
+.planificado
+.bien conocido
+.aceptado 
