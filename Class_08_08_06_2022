@@ -28,7 +28,21 @@ Diagramas de Clase:
 	*Seccion Inferior: metodos u operaciones de clases
 
 
+*Asociacion:
 
+es la realcion estructural entre las clases, que singinica que 
+un obejto de una clase se puede conectar con los objetos de las
+otras clases, es decir que colaboran entre si
+
+	*una Asociacion puede tener un nombre que describe la naturaleza de la relacion
+	
+	*las Aspciaciones son bidireccionales
+	
+		*la direccion en que se lee el nombre de una asociacion binaria es la direccion directa y la direccion opuesta es la direccion inversa.
+		*la direccion del nombre puede indicarse con un pequeño triangulo solido.
+		*en ciertos casos, solo es util una direccio de navagacion; esto se representa con una fecha orientada.
+		
+		
 *Mulltiplicidad:
 
 Persona 1.*----------0.*coche
@@ -37,7 +51,13 @@ Persona 1.*----------0.*coche
       
 *Agregacion:
 
+La agregacion en el lenguaje UML se utiliza para representar una relacion
+entre una clase y sus elementos agregados.
+
 *Composicion:
+
+Es para representar una clase que esta compuesta por otras clases que son
+necesarias para su funcionamiento.
 
 	Relacion del tipo todo/parte
               
