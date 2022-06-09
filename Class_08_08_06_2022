@@ -1,0 +1,38 @@
+Clase  08-06
+
+Diagramas de Flujo
+Diagramas de Flujo de Datos DFD
+Elementos del Modelo Entidad/Relacion MER
+
+*********************************************************
+
+Funcion ---------->Almacen de Datos	Entidad Externa
+o
+Proceso	----------------->Flujo de Datos
+
+*********************************************************
+
+Diagramas UML:
+
+	*Diagramas de Estructurales
+		*Diagrama de Clases
+
+	*Diagramas de Comportamiento
+		*Diagrama de Casos de Uso
+
+
+Diagramas de Clase:
+
+	*Seccion Superior:nombre de clase
+	*Seccion Central: atributos de clase
+	*Seccion Inferior: metodos u operaciones de clases
+
+
+
+*Mulltiplicidad:
+
+Persona 1.*----------0.*coche
+	            posee
+              
+              
+              
