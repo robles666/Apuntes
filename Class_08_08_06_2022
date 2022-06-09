@@ -34,5 +34,10 @@ Diagramas de Clase:
 Persona 1.*----------0.*coche
 	            posee
               
-              
+      
+*Agregacion:
+
+*Composicion:
+
+	Relacion del tipo todo/parte
               
