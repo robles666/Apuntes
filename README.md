@@ -12,6 +12,7 @@ tablero de indicadores:         difusion
 rDNS record for _________________________: ___________________________
 
 PORT              STATE             SERVICE
+
 21/tcp            closed            ftp
 
 --------------------------------------------------------------
