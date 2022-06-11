@@ -1,18 +1,30 @@
 clase 09 11.06_
+cd .. 6.6
 
 tres entidades
 ------------------------------------------------
-empresa
-empleados
-clientes
-aplicacion/empresa
+empresa:entidad madre de las demas se basa en la herencia
+empleados: entidad
+clientes: entidad
+aplicacion/empresa: variacion de entidad madre
 ------------------------------------------------
-empleados_carateristicas
+empleados_carateristicas:
 	 _categorias
 	 _informacion
+	 _metodo
+	 _....
    
    
 apuntes de las presentaciones de la tarea de Analisis de sistemas
 -----------------------------------------------------------------
 
+entrega de calificaciones evaluacion 1 : <class=(6.1)>;
+
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+_________________________________________________________________
+
+
+exclude
+include>><<
 
