@@ -4,19 +4,20 @@
 BUSINESS INTELLIGENCE::
 
 
-tablero de indicadores:         difusion
+Tablero de indicadores:         difusion
+-----------------------------------------
 
 Tabla de contenidos:
+---------------------
 
-
-Background/Fondo
-Build and Install/Construccion e Instalacion
-Example/Ejemplo
-Documentation/Documentacion
-Development/Desarrollo
-Maintainers/Mantenciones
-License/Licencia
-Security/Seguridad
+.Background/Fondo
+.Build and Install/Construccion e Instalacion
+.Example/Ejemplo
+.Documentation/Documentacion
+.Development/Desarrollo
+.Maintainers/Mantenciones
+.License/Licencia
+.Security/Seguridad
 
 Background/Fondo
 -----------------
