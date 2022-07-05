@@ -1,0 +1,13 @@
+clase 25-06_2022
+
+diagramas de casos de uso/Sokoban_Sokobia
+
+RELACION ACTOR-ACTOR Y CASOS DE USO-CASOS DE USO
+
+*relacion posible entre un actor y caso de uso: Asociacion
+*relacion entre actores: Generalizacion
+*en UML, relacion entre csos de uso: Generalizacion, inclusion{include} y Extension{extende}.
+
+Generalizacion Actor-Actor
+
+apuntes generales antes de la evaluacion del dia sabado_02_07
