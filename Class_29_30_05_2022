@@ -1,0 +1,18 @@
+clase 29-06_2022
+
+
+Casos de Uso
+
+van de acuerdo de los requerimientos funcionales
+1 CU = 1 proceso
+
+ventas <------------- autorizar venta
+	        extend
+
+rentar video--------> cobrar renta
+	        include
+
+¿en qué parte del diagrama de clases puedo ver reflejada las habitaciones para generar las reservas?
+
+
+apuntes antes de la evaluacion del sdia sabado_02_07
