@@ -4,7 +4,7 @@
 BUSINESS INTELLIGENCE::
 
 
-Tablero de indicadores:         difusion
+Tablero de indicadores:       
 -----------------------------------------
 
 Tabla de contenidos:
